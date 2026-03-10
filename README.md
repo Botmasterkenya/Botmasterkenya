@@ -9,8 +9,20 @@
 <br/>
 
 <!-- Social Badges -->
+<a href="https://portfolio-dark-eight.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-3DDC84?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio"/>
+</a>
 <a href="https://www.linkedin.com/in/tito-tosh-942524302/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://x.com/tee_613" target="_blank">
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+</a>
+<a href="https://www.instagram.com/m.i.s.t.e.r_.tee/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
+<a href="https://www.facebook.com/tito.tosh.2025" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
 </a>
 <a href="https://github.com/BOTMASTERKENYA" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
@@ -30,7 +42,9 @@
 - 🌐 **Web Developer** — Modern frontend & backend
 - 🐧 **Linux Enthusiast** — Shell scripting & system optimization
 - 🇰🇪 Based in **Kenya**
-- 📫 Connect: [LinkedIn](https://www.linkedin.com/in/tito-tosh-942524302/)
+- 🌍 **Portfolio:** [portfolio-dark-eight.vercel.app](https://portfolio-dark-eight.vercel.app/)
+- 📫 **Email:** [titotosh613@gmail.com](mailto:titotosh613@gmail.com)
+- 💼 **Connect:** [LinkedIn](https://www.linkedin.com/in/tito-tosh-942524302/)
 
 <br clear="right"/>
 
@@ -64,8 +78,8 @@
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
 </p>
 
-
 ---
+
 
 ### 📊 GitHub Stats
 
@@ -81,7 +95,8 @@
 | Project | Description | Stack |
 |--------|-------------|-------|
 | 💊 **Medication Reminder App** | Native Android app for scheduling & tracking dosages | Kotlin, Jetpack Compose |
-| 🗂️ **MyPortfolio** | Showcase of dev work, university projects & experiments | Web |
+| 💳 **CerealPay** | Mobile payment app for seamless goods & services payments | Mobile, UI/UX, Backend |
+| 🌐 **MyPortfolio** | Personal dev portfolio showcasing projects & experiments | [Live ↗](https://portfolio-dark-eight.vercel.app/) |
 
 ---
 
@@ -102,8 +117,6 @@
 </picture>
 
 </div>
-
-
 
 ---
 
