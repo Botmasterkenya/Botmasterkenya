@@ -1,9 +1,6 @@
-# Hi there, I'm Tito Muchoki! 👋
-
 <p align="center">
-<img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Building%20the%20Future&fontSize=70" />
+  <img src="URL-OF-YOUR-GENERATED-TEE-GRID" alt="TEE Pixel Art" />
 </p>
-
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Android+Developer;Python+Developer;Linux+Enthusiast;Building+Cool+Projects&center=true&width=500&height=50&color=3DDC84&size=25" alt="Typing SVG" />
 </p>
@@ -29,10 +26,8 @@
 ---
 
 ### 📊 GitHub Stats
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=BOTMASTERKENYA&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Stats Card" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BOTMASTERKENYA&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&hide=html,css" alt="Top Langs" height="170" />
-</p>
+![Stats Card](https://github-readme-stats.vercel.app/api?username=BOTMASTERKENYA&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BOTMASTERKENYA&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&hide=html,css)
 
 ---
 
