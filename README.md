@@ -9,7 +9,7 @@
 <br/>
 
 <!-- Social Badges -->
-<a href="https://portfolio-dark-eight.vercel.app/" target="_blank">
+<a href="https://https://my-portforlio-theta.vercel.app//" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-3DDC84?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio"/>
 </a>
 <a href="https://www.linkedin.com/in/tito-tosh-942524302/" target="_blank">
