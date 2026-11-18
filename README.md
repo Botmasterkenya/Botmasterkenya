@@ -42,7 +42,7 @@
 - 🌐 **Web Developer** — Modern frontend & backend
 - 🐧 **Linux Enthusiast** — Shell scripting & system optimization
 - 🇰🇪 Based in **Kenya**
-- 🌍 **Portfolio:** [portfolio-dark-eight.vercel.app](https://portfolio-dark-eight.vercel.app/)
+- 🌍 **Portfolio:** (https://my-portforlio-theta.vercel.app//)
 - 📫 **Email:** [titotosh613@gmail.com](mailto:titotosh613@gmail.com)
 - 💼 **Connect:** [LinkedIn](https://www.linkedin.com/in/tito-tosh-942524302/)
 
